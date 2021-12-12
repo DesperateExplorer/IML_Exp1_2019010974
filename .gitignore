@@ -1,2 +1,4 @@
-trec06p/*
+trec06p/data/*
+trec06p/label/*
+trec06p/inter/*
 !.gitkeep
